@@ -4,6 +4,7 @@
   "description": "",
   "main": "Gruntfile.js",
   "scripts": {
+    "start": "node index.js",
     "test": "grunt test",
     "wait": "grunt wait",
     "doc": "grunt doc"
@@ -26,4 +27,5 @@
     "grunt-contrib-watch": "^1.0.0",
     "grunt-jsdoc": "^2.2.0"
   }
+
 }
